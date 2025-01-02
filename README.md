@@ -26,6 +26,14 @@ project_directory/
 
 You will use the `helper_functions.py` module and modify pre-defined function stubs in `main_project.py`. The `test_project.py` file contains tests to verify functionality.
 
+We use functions in this code.  We will cover functions in a lot more depth later, but use them here to help facilitate test driven development.  This is different that other start of semester courses, and that's why we're using a guided walkthrough for this first project.  Functions are a key programming structure that give use small parts of a larger project that are testable and understandable.   
+
+We will demonstrate how they come together and allow us to test both parts of a larger project and the entire project as a whole.
+
+
+By using GitHub Classrooms, you'll be submitting your code and having it automatically tested by a continuous integration (CI) system that runs these unit tests. The tests will provide feedback on whether your code works as expected, and you will be able to make improvements to pass these tests.
+
+
 ---
 
 ## **Code Walkthrough**
